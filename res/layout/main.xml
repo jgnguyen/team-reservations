@@ -5,4 +5,16 @@
     android:orientation="vertical"
     android:background="@drawable/bginc" >
 
+    <Button
+        android:id="@+id/buttonOn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Off" 
+		android:onClick="lightOn"/>
+    <Button
+        android:id="@+id/buttonOff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="On" 
+		android:onClick="lightOff"/>
 </LinearLayout>
