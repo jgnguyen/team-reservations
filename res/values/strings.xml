@@ -2,6 +2,7 @@
 <resources>
 
     <string name="hello">Hello World!</string>
-    <string name="app_name">SenseFlash</string>
+    <string name="app_name">Panic Light</string>
+    <string name="switch_title">Panic Detection</string>
 
 </resources>
