@@ -19,9 +19,14 @@ public final class R {
         public static final int panotify=0x7f020005;
     }
     public static final class id {
+<<<<<<< HEAD
         public static final int imageView1=0x7f050001;
         public static final int relativeLayout1=0x7f050000;
         public static final int switch1=0x7f050002;
+=======
+        public static final int buttonOff=0x7f050001;
+        public static final int buttonOn=0x7f050000;
+>>>>>>> c4ba48846ffd0988d18deb57bf5fd2f8f1f46099
     }
     public static final class layout {
         public static final int main=0x7f030000;
